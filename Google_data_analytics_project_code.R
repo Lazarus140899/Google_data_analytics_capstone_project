@@ -44,7 +44,7 @@ data_july2021 <- read.csv("D:\\google project data\\dataset_csv_format\\July2021
 data_aug2021 <-  read.csv("D:\\google project data\\dataset_csv_format\\Aug2021-tripdata.csv")
 
 
-# The column names of all the datasets we have imported:
+# The column names of all the dataset is checked for confirming consistency:
 
 colnames(data_sep2020)
 colnames(data_oct2020)
